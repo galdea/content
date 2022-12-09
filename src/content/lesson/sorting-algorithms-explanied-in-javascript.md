@@ -43,7 +43,7 @@ const bubbleSort = (arr) => {
 };
 ```
 
-> :tv: In this link, you will find [a relly good 2 min video explanation](https://www.youtube.com/watch?v=xli_FI7CuzA).
+> :tv: In this link, you will find [a really good 2 min video explanation](https://www.youtube.com/watch?v=xli_FI7CuzA).
 
 > :tv: Here is a really [weird group of bulgarian's](https://www.youtube.com/watch?v=lyZQPjUT5B4&t=1s) dancing the bubble-sort algorithm.
 
